@@ -24,6 +24,33 @@ export const App = function () {
 
   return (
     <div className="container">
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Brand</th>
+            <th>Price</th>
+            <th>In Stock</th>
+            <th>Release Date</th>
+
+          </tr>
+        </thead>
+        <tbody>
+          {
+            shoes.map((shoe) => (
+              <tr key={shoe.id}>
+                <td>{shoe.id}</td>
+                <td>{shoe.name}</td>
+                <td>{shoe.brand}</td>
+                <td>{shoe.price}</td>
+                <td>{shoe.inStock ? "Yes" : "No"}</td>
+                <td>{shoe.releaseDate}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
 
     </div>
   )
