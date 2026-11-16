@@ -1,0 +1,39 @@
+{
+  "shoes": [
+    {
+      "name": "Nike Air Zoom Pegasus 40",
+      "brand": "Nike",
+      "price": 42990,
+      "inStock": true,
+      "releaseDate": "2023-04-15"
+    },
+    {
+      "name": "Adidas Ultraboost Light",
+      "brand": "Adidas",
+      "price": 59990,
+      "inStock": true,
+      "releaseDate": "2023-02-01"
+    },
+    {
+      "name": "Asics Gel-Kayano 30",
+      "brand": "Asics",
+      "price": 52990,
+      "inStock": false,
+      "releaseDate": "2023-06-15"
+    },
+    {
+      "name": "New Balance Fresh Foam 1080",
+      "brand": "New Balance",
+      "price": 47990,
+      "inStock": true,
+      "releaseDate": "2023-08-10"
+    },
+    {
+      "name": "Puma Deviate Nitro 2",
+      "brand": "Puma",
+      "price": 38990,
+      "inStock": false,
+      "releaseDate": "2023-05-20"
+    }
+  ]
+}
