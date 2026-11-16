@@ -5,35 +5,97 @@
       "brand": "Nike",
       "price": 42990,
       "inStock": true,
-      "releaseDate": "2023-04-15"
+      "releaseDate": "2023-04-15",
+      "id": "0OOwiLMO2BI"
     },
     {
       "name": "Adidas Ultraboost Light",
       "brand": "Adidas",
       "price": 59990,
       "inStock": true,
-      "releaseDate": "2023-02-01"
+      "releaseDate": "2023-02-01",
+      "id": "8FewbLro20A"
     },
     {
       "name": "Asics Gel-Kayano 30",
       "brand": "Asics",
       "price": 52990,
       "inStock": false,
-      "releaseDate": "2023-06-15"
+      "releaseDate": "2023-06-15",
+      "id": "Cy7YMFnt-EA"
     },
     {
       "name": "New Balance Fresh Foam 1080",
       "brand": "New Balance",
       "price": 47990,
       "inStock": true,
-      "releaseDate": "2023-08-10"
+      "releaseDate": "2023-08-10",
+      "id": "qKP6h8uISZw"
     },
     {
       "name": "Puma Deviate Nitro 2",
       "brand": "Puma",
       "price": 38990,
       "inStock": false,
-      "releaseDate": "2023-05-20"
+      "releaseDate": "2023-05-20",
+      "id": "SpcaxUp9k98"
+    },
+    {
+      "name": "e",
+      "brand": "d",
+      "price": 3,
+      "inStock": true,
+      "releaseDate": "2026-11-10T00:00:00.000Z",
+      "id": "NFncEhZ-6F8"
+    },
+    {
+      "name": "e",
+      "brand": "d",
+      "price": 3,
+      "inStock": false,
+      "releaseDate": "2026-11-10T00:00:00.000Z",
+      "id": "kfp9iCmhz5c"
+    },
+    {
+      "name": "e",
+      "brand": "d",
+      "price": 3,
+      "inStock": false,
+      "releaseDate": "2026-11-10T00:00:00.000Z",
+      "id": "NYPFG9TOWR0"
+    },
+    {
+      "name": "i",
+      "brand": "d",
+      "price": 0,
+      "inStock": false,
+      "releaseDate": "2026-11-10T00:00:00.000Z",
+      "id": "tgU8RqA4Aco"
+    },
+    {
+      "name": "i",
+      "brand": "yhhhyhyyhnbhty",
+      "price": 0,
+      "inStock": false,
+      "releaseDate": "2026-11-10T00:00:00.000Z",
+      "id": "xI0FaRHwBgw"
+    },
+    {
+      "name": "i",
+      "brand": "yhhhyhyyhnbhty",
+      "price": 999999999,
+      "inStock": true,
+      "releaseDate": "2026-12-05T00:00:00.000Z",
+      "id": "BSrUyFGRhfE"
+    },
+    {
+      "name": "ertfd",
+      "brand": "rdf",
+      "price": 0,
+      "inStock": false,
+      "releaseDate": "2026-11-14T00:00:00.000Z",
+      "id": "PjfYe79YCuE"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
